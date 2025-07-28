@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm D0ge</h1>
 <h3 align="center">Making and learning silly things in cybersecurity</h3>
 
-- 🔭 I’m currently working on **ESP Captive portal thats educational**
+- 🔭 I’m currently working on **ESP32 Captive portal thats educational**
 
 - 🌱 I’m currently learning **All sorts of hacking and python and c++**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/@hackshiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@hackshiz" height="30" width="40" /></a>
+<a href="https://instagram.com/hackshiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hackshiz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
