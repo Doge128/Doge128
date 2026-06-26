@@ -12,7 +12,7 @@
 
 ### `whoami`
 
-**CJ** · Cybersec learner · Colorado Front Range · 18
+**Doge/Hackshiz** · Cybersec learner · Mountian Lover · 
 
 > *Building things I can't afford to buy. Breaking things I built to learn why they work.*
 
