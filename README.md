@@ -76,12 +76,6 @@ Daily drivers:
 
 ---
 
-## 🏃 Not just keyboards
-
-16:50 5K · 4:44 Mile · 2:04 800m · XC + Track · Boulder, CO
-
----
-
 <div align="center">
 
 *Always ethical. Always learning. Always building.*
